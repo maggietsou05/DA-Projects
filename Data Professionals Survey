@@ -1,2 +1,17 @@
-The dashboard was built to practice interactive data storytelling, using slicers, charts, and cards to highlight actionable insights.  
-Both the `.pbix` file and a static PDF version are included for reference.
+# 📊 Data Survey Dashboard (Power BI)
+
+This dashboard was built to practice interactive data storytelling using slicers, charts, and cards to highlight actionable insights.  
+Both the `.pbix` Power BI file and a static PDF version are included for reference.
+
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](1ed9de00-3a93-461d-90d4-6c16a304ee6a.png)
+
+## 📄 PDF Version
+
+[View full dashboard (PDF)](Data_Survey_Dashboard%20(1).pdf)
+
+## 📁 Files Included
+
+- `Data_Survey_Dashboard.pbix` – Power BI file
+- `Data_Survey_Dashboard (1).pdf` – Static snapshot of the dashboard

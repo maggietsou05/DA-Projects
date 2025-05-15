@@ -1,1 +1,1 @@
-Using postgre SQL for data exploration, cleaning, and analysis
+Small technical projects for data analytics using PostgreSQL, PowerBI, and others.

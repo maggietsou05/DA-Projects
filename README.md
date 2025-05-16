@@ -2,7 +2,10 @@
 
 # PostgreSQL
 Data cleaning:
-*  SQL queries analyzing recent tech layoffs and hiring trends
+*  SQL cleaning of an individual's Spotify listening trends from 2016-2025
+*  [📄 View spotify_cleaning.sql](spotify_cleaning.sql)
+
+*  SQL cleaning of recent tech layoffs and hiring trends
 *  [📄 View layoffs.sql](layoffs.sql)
 
 Data analysis:

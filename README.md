@@ -7,7 +7,7 @@ Data cleaning:
 
 Data analysis:
 * SQL queries used to analyze COVID-related data
-* [📄 View layoffs.sql](layoffs.sql)
+* [📄 View covid.sql](covid_postgre.sql)
 
 # PowerBI
 Dashboard:
